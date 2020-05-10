@@ -1,7 +1,7 @@
 {
   "name": "animais-eslint",
   "version": "1.0.0",
-  "description": "",
+  "description": "Projeto Final Curso Javascript Origamid",
   "main": "index.html",
   "scripts": {
     "build": "webpack --mode production",
